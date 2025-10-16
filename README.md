@@ -2,6 +2,8 @@
 
 Koine Lab is an experimental, data-rich learning environment for Biblical Greek. The entire project was produced in a single one-shot session by GPT-5-Codex, bootstrapping a working Vite + React application from the SBLGNT morphology dataset bundled in this repository.
 
+Visit the live app: https://jspann21.github.io/Koine_Lab
+
 > ⚠️ **Status:** experimental proof of concept. Expect unfinished edges, sparse polish, and follow-up refactors.
 
 ## Why This Exists
